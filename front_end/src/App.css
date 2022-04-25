@@ -1,0 +1,18 @@
+.container{
+    margin:80px auto 0 auto;
+    max-width:1200px;
+    
+}
+body{
+    background-color:rgb(300,300,300);
+}
+a{
+    text-decoration:none;
+}
+
+.nav-container{
+    margin:auto
+}
+.nav-container svg{
+    color:white
+}
